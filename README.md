@@ -3,4 +3,4 @@
 
 [Growth Mindset Notes](growthMindset.md).
 
-[Lab-01b](Lab-01b.md)
+[Lab-01b](lab-01b.md)
