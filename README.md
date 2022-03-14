@@ -4,3 +4,5 @@
 [Growth Mindset Notes](growthMindset.md).
 
 [Lab-01b](lab-01b.md)
+
+[The Coder's Computer](theCodersComputer.md)
