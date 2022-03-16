@@ -6,3 +6,5 @@
 [Lab-01b](lab-01b.md)
 
 [The Coder's Computer](theCodersComputer.md)
+
+[Git Notes](gitReview.md)
