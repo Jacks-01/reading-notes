@@ -8,3 +8,5 @@
 [The Coder's Computer](theCodersComputer.md)
 
 [Git Notes](gitReview.md)
+
+[HTML Notes](htmlNotes.md)
