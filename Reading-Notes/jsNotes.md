@@ -1,6 +1,10 @@
-# JS Notes
+# JavaScript Notes
 
 Javascript is able to help us create dynamic websites. Dynamic meaning that it is able to update things continuously and in real-time. When you write your html and css code, the browser loads it in one snap of your fingers, and nothing you click (other than tags connecting pages) will change the display. With JavaScript we are able to add our own bits of code to play when another action is taken.
+
+## Control Flow
+ 
+ Control flow is the term used to describe the order in which our code executes. In JS, code is read in a logical manner from left to right, then down.
 
 ## The essentials
 
@@ -16,13 +20,16 @@ In JavaScript there are a few core concepts that lay the ground work for what a 
 * Functions
   - Functions are one of the fundamental building blocks in JavaScript. A function is a reusable set of statements to perform a task or calculate a value. Functions can be passed one or more values and can return a value at the end of their execution. In order to use a function, you must define it somewhere in the scope where you wish to call it. 
   
-  > ```.js //Defining the function:
+```.js
+Defining the function:
 function sum(num1, num2) {
   return num1 + num2;
 }
  
 // Calling the function:
-sum(3, 6); // 9```
+sum(3, 6); // 9
+
+```
 
 [Credit](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-functions/cheatsheet)
 
