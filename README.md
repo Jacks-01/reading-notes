@@ -12,3 +12,7 @@
 [HTML Notes](htmlNotes.md)
 
 [Website](myWebsite.html)
+
+[Class 7 Notes](jsNotes.md)
+
+[Class 8 Notes](class8Notes.md)
