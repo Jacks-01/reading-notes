@@ -1,18 +1,18 @@
 # Welcome to Jack's Reading Notes Repo
 
 
-[Growth Mindset Notes](growthMindset.md).
+[Growth Mindset Notes](Reading-Notes/growthMindset.md).
 
-[Lab-01b](lab-01b.md)
+[Lab-01b](Reading-Notes/lab-01b.md)
 
-[The Coder's Computer](theCodersComputer.md)
+[The Coder's Computer](Reading-Notes/theCodersComputer.md)
 
-[Git Notes](gitReview.md)
+[Git Notes](Reading-Notes/gitReview.md)
 
-[HTML Notes](htmlNotes.md)
+[HTML Notes](Reading-Notes/htmlNotes.md)
 
-[Website](myWebsite.html)
+[Website](Reading-Notes/myWebsite.html)
 
-[Class 7 Notes](jsNotes.md)
+[Class 7 Notes](Reading-Notes/jsNotes.md)
 
-[Class 8 Notes](class8Notes.md)
+[Class 8 Notes](Reading-Notes/class8Notes.md)
