@@ -1,5 +1,6 @@
 # Welcome to Jack's Reading Notes Repo
 
+## Code 102
 
 [Growth Mindset Notes](Reading-Notes/growthMindset.md).
 
@@ -16,3 +17,8 @@
 [Class 7 Notes](Reading-Notes/jsNotes.md)
 
 [Class 8 Notes](Reading-Notes/class8Notes.md)
+
+## Code 201
+
+[]()
+[]()
