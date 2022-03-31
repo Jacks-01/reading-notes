@@ -1,4 +1,4 @@
-# Learning Journal 03
+# Learning Journal 04
 
 > In other words, understanding your motivation for learning contributes to the effectiveness of your learning, and your learning journal is a place to explore those thoughts. What are your motivations for learning?
 
