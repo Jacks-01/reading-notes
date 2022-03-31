@@ -7,5 +7,5 @@
 - What details will you record and/or measure? 
   - I want to measure things like hours spent on labs, time spent outside of school getting curious about code, and just making sure that I don't have long spans of time(more like day/weeks) where I don't code, I want to steadily make progress.
 - How often will you evauluate what you want to learn?
-  - I think reflecting after each unit is a good interval for me but I may change that depending how I feel after the first 2 weeks.
+  - I think reflecting after each unit is a good interval for me but I may change that depending how I feel after the first 2 weeks. 
 
