@@ -1,7 +1,6 @@
 # Welcome to Jack's Reading Notes Repo
 
-## Code 102
-
+## Code 102 - Intro to Software Development
 [Growth Mindset Notes](Reading-Notes/growthMindset.md).
 
 [Lab-01b](Reading-Notes/lab-01b.md)
@@ -18,20 +17,10 @@
 
 [Class 8 Notes](Reading-Notes/class8Notes.md)
 
-## Code 201
+## Code 201 - Foundations of Software Development
+ ERROR: 404
+ 
+## Code 301 - Intermediate Software Development
 
-1. []()
-2. []()
-3. []()
-4. []()
-5. []()
-6. []()
-7. []()
-8. []()
-9. []()
-10. []()
-11. []()
-12. []()
-13. []()
-14. []()
-15. []()
+
+## Code 401 - Advanced Software Development
