@@ -1,7 +1,9 @@
-## Class 01 : Introduction to React and Components
+# Class 01 : Introduction to React and Components
+- [Class 01 : Introduction to React and Components](#class-01--introduction-to-react-and-components)
+  - [Components](#components)
+  - [Props](#props)
 
-
-# Components
+## Components
 
 
 1. What is a “component”?
