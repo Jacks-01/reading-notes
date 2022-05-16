@@ -18,4 +18,9 @@
     3. If you can't find a good place, make a new component to manage the state.
 
 ## Higher Order Functions
-1. They are functions that operate on other functions, usually by taking them in as an argument.
+1. What is a “higher-order function”?
+   - They are functions that operate on other functions, usually by taking them in as an argument.
+2. Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
+    - Line 2 is creating a function and returning its value. Essentially it is a function inside a function using the parameters from the previous function.
+3. Explain how either map or reduce operates, with regards to higher-order functions.
+   - Map and reduce are simply shortcuts. You can do everything that map and reduce do inside of an interation but instead they are methods that compact the code and make it easier to digest (as well as being more efficient.) 
