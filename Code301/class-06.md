@@ -11,6 +11,7 @@
 4. What is npm?
    - node project manager, which is a software database with tons of packages.
 5. What version of node are you running on your machine?
+    - 16.4.2
 6. What version of npm are you running on your machine?
    - 8.9.0
 7. What command would you type to install a library/package called ‘jshint’?
