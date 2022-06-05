@@ -6,3 +6,8 @@ Today my goal is to get the favorite button to work so that a user can add and r
 
 ______________________________
 
+I was able to successfully manage the appearance of the button (toggle favorite) by using a hook to manage the state of the component. This was new to me as we havev only worked with class components before. 
+
+Once that started to work I ran into the issue of my function knowing which pokemon was marked as favorite, so I had to add state into the component that made a single pokemon. 
+
+Next was adding the favorite pokemon to a user. I had to indentify which pokemon was getting adding to the user state, even though pokemon reference was in the previous component. (!)
