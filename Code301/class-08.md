@@ -1,0 +1,33 @@
+# Class 8: API's
+
+
+- What does REST stand for?
+  - REST stands for Representational State Transfer 
+- REST APIs are designed around a ____.
+  - Resource
+- What is an identifier of a resource? Give an example.
+  -  A URI
+  -  https://adventure-works.com/orders/1
+- What are the most common HTTP verbs?
+  - GET
+  - POST
+  - PUT
+  - PATCH
+  - DELETE
+- What should the URIs be based on?
+  - A URI should be based on the resource it is identifying.
+- Give an example of a good URI.
+  -  https://USPS.com/tracking
+  -  use plural names
+- What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
+  - a bad thing
+  - It means that your API is sending too much, or unnessecary data that is slowing the process down.
+- What status code does a successful GET request return?
+  - 200
+- What status code does an unsuccessful GET request return?
+  - 404
+- What status code does a successful POST request return?
+  - 201
+  - 200
+- What status code does a successful DELETE request return?
+  - 204
