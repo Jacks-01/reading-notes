@@ -3,21 +3,21 @@ ___
 - [x] Basic Computer Setup
 - [x] 301 Computer Setup
 - [x] Setup Your Accounts
-- [ ] Create a Reading Notes Repo
+- [x] Create a Reading Notes Repo
 
 ### Practice Assignments
 ___
-- [ ] Introduction to SQL
-- [ ] Git Practice
+- [x] Introduction to SQL
+- [x] Git Practice
 - [ ] Bash Practice
 - [ ] Typing Practice
 
 ### Career Coaching Pre-Work
 --- 
 - [ ] Mindset
-- [ ] Professional Etiquette
+- [x] Professional Etiquette
 - [ ] Career Coaching Status Report
-- [ ] Update Your Resume
+- [x] Update Your Resume
 
 ### Readings and Videos
 

@@ -16,7 +16,7 @@
 	  - [[learningJournal3]]
 	  - [[learningJournal04]]
   - Code 301 - Intermediate Software Development
-	  - [[class-01]]
+	  - [[reading-notes/Code301/class-01]]
 	  - [[reading-notes/Code301/class-02]]
 	  - [[class-03]]
 	  - [[class-04]]
