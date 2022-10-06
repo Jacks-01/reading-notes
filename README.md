@@ -22,12 +22,12 @@
 	  - [class-04](reading-notes/Code301/class-04.md)
 	  - [class-05](class-05.md)
 	  - [class-06](reading-notes/Code301/class-06.md)
-	  - [class-07](class-07.md)
-	  - [class-08](class-08.md)
+	  - [class-07](reading-notes/Code301/class-07.md)
+	  - [class-08](reading-notes/Code301/class-08.md)
 	  - [class-09](class-09.md)
 	  - [class-10](class-10.md)
-	  - [class-11](class-11.md)
-	  - [class-12](class-12.md)
+	  - [class-11](reading-notes/Code301/class-11.md)
+	  - [class-12](reading-notes/Code301/class-12.md)
   - Code 401 - Advanced Software Development
 	  - [class-01](reading-notes/Code401/class-01.md)
 
